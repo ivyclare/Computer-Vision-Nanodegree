@@ -6,9 +6,7 @@
 
 | **Lesson Title**                                                                                                                                             | **What I learned**                                                                                                                                                                                                                                                          |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[Image Representation and Analysis](https://github.com/ivyclare/Computer-Vision-Nanodegree/tree/master/Exercises/1_1_Image_Representation)**               | - Saw how images are represented numerically
-- Implemented Image Processing techniques like color and geometric transforms 
-- Programmed my own convolutional kernel for object edge-detection                                                                               |
+| **[Image Representation and Analysis](https://github.com/ivyclare/Computer-Vision-Nanodegree/tree/master/Exercises/1_1_Image_Representation)**               | - Saw how images are represented numerically <br/>- Implemented Image Processing techniques like color and geometric transforms<br/>- Programmed my own convolutional kernel for object edge-detection                                                                               |
 | **[Convolution NN Layers](https://github.com/ivyclare/Computer-Vision-Nanodegree/tree/master/Exercises/1_2_Convolutional_Filters_Edge_Detection)**        | - Learned about the layers of a deep CNN: (Convolutional, maxpooling and fully connected layers)
 - Build a CNN-based image classifier in PyTorch
 - Learned about layer activation and feature visualization techniques                                                      |
