@@ -1,4 +1,11 @@
 # Computer Vision Nanodegree
+## Projects
+### Project 1: Facial KeyPoint Detection
+
+### Project 2: Image Captioning
+
+### Project 3: Landmark Detection and Tracking
+
 
 ## Exercises
 
