@@ -4,6 +4,13 @@
 In this project, I built a facial key point detection system using Haar Cascades and CNN.Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. First, I used Haar Cascades to detect and extract faces from an image, then use a CNN to detect the keypoints.
 Some of the results include:
 
+![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obamas.jpg)
+
+![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obamasHaar.png)
+
+![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obama.png)
+
+![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obama_michele.png)
 
 
 ### Project 2: Image Captioning
