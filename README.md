@@ -1,5 +1,6 @@
 # Computer Vision Nanodegree
 ## Projects
+
 ### Project 1: Facial KeyPoint Detection
 In this project, I built a facial key point detection system using Haar Cascades and CNN.Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. First, I used Haar Cascades to detect and extract faces from an image, then use a CNN to detect the keypoints.
 Some of the results include:
@@ -14,6 +15,7 @@ Some of the results include:
 
 
 ### Project 2: Image Captioning
+
 
 ### Project 3: Landmark Detection and Tracking
 
