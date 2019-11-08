@@ -18,8 +18,17 @@ I used an attention model, which is a combination of a CNN and LSTM. I learnt:
 - How to combine CNNs and RNNs to build a complex captioning model.
 - Implemented an LSTM for caption generation.
 - Trained a model to predict captions and understand a visual scene.
+
 Some results are:
 
+![caption](/CVND_Projects/P2_Image_Captioning/images/caption1.png)
+
+![caption](/CVND_Projects/P2_Image_Captioning/images/caption3.png)
+
+![caption](/CVND_Projects/P2_Image_Captioning/images/caption4.png)
+
+And some not so good results
+![caption](/CVND_Projects/P2_Image_Captioning/images/CaptionNotSoGood.png)
 
 ### Project 3: Landmark Detection and Tracking
 
