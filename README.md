@@ -27,7 +27,9 @@ Some results are:
 
 ![caption](/CVND_Projects/P2_Image_Captioning/images/caption4.png)
 
+
 And some not so good results
+
 ![caption](/CVND_Projects/P2_Image_Captioning/images/CaptionNotSoGood.png)
 
 ### Project 3: Landmark Detection and Tracking
