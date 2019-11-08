@@ -13,6 +13,12 @@ Some of the results include:
 
 
 ### Project 2: Image Captioning
+In this project I built an image captioning model. When given an image the model outputs a description of that image.
+I used an attention model, which is a combination of a CNN and LSTM. I learnt:
+- How to combine CNNs and RNNs to build a complex captioning model.
+- Implemented an LSTM for caption generation.
+- Trained a model to predict captions and understand a visual scene.
+Some results are:
 
 
 ### Project 3: Landmark Detection and Tracking
