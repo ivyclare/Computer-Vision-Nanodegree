@@ -9,9 +9,7 @@ Some of the results include:
 
 ![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obamasHaar.png)
 
-![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obama.png)
-
-![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obama_michele.png)
+![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obam.png)
 
 
 ### Project 2: Image Captioning
