@@ -11,6 +11,7 @@ Some of the results include:
 
 ![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obam.png)
 
+-------------------------------
 
 ### Project 2: Image Captioning
 In this project I built an image captioning model. When given an image the model outputs a description of that image.
@@ -31,6 +32,8 @@ Some results are:
 And some not so good results
 
 ![caption](/CVND_Projects/P2_Image_Captioning/images/CaptionNotSoGood.png)
+
+--------------------------------
 
 ### Project 3: Landmark Detection and Tracking
 
