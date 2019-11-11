@@ -9,13 +9,31 @@ Some of the results include:
 
 ![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obamasHaar.png)
 
-![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obama.png)
+![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obam.png)
 
-![Obama](/CVND_Projects/P1_Facial_Keypoints/images/obama_michele.png)
-
+-------------------------------
 
 ### Project 2: Image Captioning
+In this project I built an image captioning model. When given an image the model outputs a description of that image.
+I used an attention model, which is a combination of a CNN and LSTM. I learnt:
+- How to combine CNNs and RNNs to build a complex captioning model.
+- Implemented an LSTM for caption generation.
+- Trained a model to predict captions and understand a visual scene.
 
+Some results are:
+
+![caption](/CVND_Projects/P2_Image_Captioning/images/caption1.png)
+
+![caption](/CVND_Projects/P2_Image_Captioning/images/caption3.png)
+
+![caption](/CVND_Projects/P2_Image_Captioning/images/caption4.png)
+
+
+And some not so good results
+
+![caption](/CVND_Projects/P2_Image_Captioning/images/CaptionNotSoGood.png)
+
+--------------------------------
 
 ### Project 3: Landmark Detection and Tracking
 
